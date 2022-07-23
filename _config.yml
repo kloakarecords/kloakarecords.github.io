@@ -31,8 +31,6 @@ youtube:
 soundcloud: https://soundcloud.com/kloakarecordingstudio
 bandcamp: https://kloakarecordingstudio.bandcamp.com/
 
-gems:           ['jekyll-multiple-languages']
-
 plugins:
   - jekyll-multiple-languages-plugin
 
